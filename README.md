@@ -188,6 +188,13 @@ mindmap
   <a href="https://github.com/paultanay"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tanaypaul">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="41" />
+  </a>
+</p>
 
 </div>
 
