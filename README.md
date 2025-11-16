@@ -1,55 +1,78 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Tanay Paul — Building the future, one model at a time</h1>
-<p align="center">🪐 Fullstack • AI & ML • Deep Learning • Generative Systems</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Tanay Paul</h1>
+<h3 align="center">Fullstack | AI & ML Dev</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=paultanay&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+  <a href="https://komarev.com/ghpvc/?username=paultanay">
+    <img src="https://komarev.com/ghpvc/?username=paultanay&label=Profile%20views&color=00FFFF&style=flat-square" alt="paultanay's profile views" />
+  </a>
 </p>
 
-<img src="https://i.gifer.com/origin/06/06f66842f8c64b4ee5d5d6f1b84f9137.gif" alt="Futuristic Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
 
-## ✨ About Me
-- I craft intelligent products with PyTorch and modern fullstack tooling — from prototypes to production.
-- Passionate about scalable ML, generative systems, and automating developer workflows.
-- Quick at debugging, faster at iterating — I prefer shipping over perfection.
-- Want to collaborate? Let’s connect on LinkedIn or X (links below).
+## 📌 About Me
+- I’m currently specializing Deeplearning, working with PyTorch.
+- All of my projects are available on LinkedIn
+- Reach me via: Sandeepa Wimalasiri
+- More about me on LinkedIn
+- Fun fact: I can debug code faster than I can decide what to eat 🍔💻
 
-## 🔭 Focus Areas
-- Deep Learning • Generative AI • Model Engineering • Automation • Scalable Deployments
 
-## 📊 GitHub Stats & Activity
+## 🧠 My Focus Areas
+- AI & ML | Deeplearning | Generative AI | Automation
+
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=paultanay&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://streak-stats.demolab.com/?user=paultanay&theme=react&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paultanay&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true&cache_seconds=86400" alt="paultanay's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=paultanay&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="paultanay's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=paultanay&theme=darkhub&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paultanay&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tanay Paul's GitHub Trophies" />
 </p>
-
-## 🛠️ Tech Stack (neon-ready)
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:6px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:6px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin:6px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin:6px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin:6px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40" style="margin:6px;" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=paultanay&theme=shades-of-purple&radius=10" alt="paultanay's Activity Graph" />
 </p>
+
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
+
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
+
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+
+### DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
+
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=paultanay&theme=react-dark&radius=10" alt="Activity Graph" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paultanay&layout=compact&theme=shades-of-purple&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-## 🔗 Connect
-<p align="center">
-    <a href="https://www.linkedin.com/in/iamtanaypaul/" target="_blank">LinkedIn</a> ·
-    <a href="https://x.com/TanayPaul_" target="_blank">X / Twitter</a> ·
-    <a href="mailto:contact.tanaypaul@gmail.com" target="_blank">Email</a> ·
-    <a href="https://tanaypaul.me/" target="_blank">Website</a>
-</p>
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/iamtanaypaul/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/TanayPaul_" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918335893833" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contact.tanaypaul@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://tanaypaul.me/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-## 💡 Motto
-> Use AI to augment creativity and ship meaningful experiences — not to replace the human spark.
+## 💬 Quote
+> Leveraging AI as a professional tool, not a replacement.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="neon-footer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
