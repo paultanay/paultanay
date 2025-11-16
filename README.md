@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%26+Machine+Learning+ Enthusiast;Deep+Learning+%7C+Computer+Vision;I+Build+Cool+Tech+With+Code+%26+Coffee" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+Computer+Vision;I+Build+Cool+Tech+With+Code+%26+Coffee&cache_seconds=86400" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -50,22 +50,11 @@
 ## 🛠️ Languages & Tools  
 <p align="center">
 
-<!-- Programming -->
 <img src="https://skillicons.dev/icons?i=js,ts,python" height="50"/>
-
-<!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="50"/>
-
-<!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="50"/>
-
-<!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50"/>
-
-<!-- DevOps -->
 <img src="https://skillicons.dev/icons?i=docker,azure" height="50"/>
-
-<!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,postman,vscode,vite" height="50"/>
 
 </p>
