@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%26+Machine+Learning+Dev;Deep+Learning+%7C+PyTorch+Enthusiast;I+Build+Cool+Tech+With+Code+%26+Coffee" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%26+Machine+Learning+ Enthusiast;Deep+Learning+%7C+Computer+Vision;I+Build+Cool+Tech+With+Code+%26+Coffee" alt="Typing Animation" />
 </h3>
 
 <p align="center">
