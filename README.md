@@ -69,9 +69,9 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
   <!-- local assets -->
-  <img src="./assets/numpy.svg" width="48" height="48" />
-  <img src="./assets/pandas.svg" width="48" height="48" />
-  <img src="./assets/opencv.svg" width="48" height="48" />
+  <img src="./assets/numpy.png" width="48" height="48" />
+  <img src="./assets/pandas.png" width="48" height="48" />
+  <img src="./assets/opencv.png" width="48" height="48" />
 
 </div>
 
