@@ -77,7 +77,7 @@
 ### Databases & Cloud
 
 <!-- skillicons for supported -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,vercel,azure,heroku" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,vercel,azure,heroku" />
 
 ---
 
