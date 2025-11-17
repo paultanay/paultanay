@@ -69,9 +69,9 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
   <!-- local assets -->
-  <img src="./assets/numpy.png" width="48" height="48" />
-  <img src="./assets/pandas.png" width="48" height="48" />
-  <img src="./assets/opencv.png" width="48" height="48" />
+  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/NumPy.svg" width="48" height="48" />
+  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/Pandas.svg" width="48" height="48" />
+  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/OpenCV.svg" width="48" height="48" />
 
 </div>
 
