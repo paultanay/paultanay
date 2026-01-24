@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanay%20Paul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20System%20Design&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tanay%20Paul&desc=Backend%20%7C%20Database%20%7C%20%20cloud%20%&descSize=18&descAlign=50&descAlignY=55&fontSize=48&fontColor=fff&animation=twinkling&fontAlign=50"/>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%F0%9F%9A%80;Backend+%E2%9A%A1+Cloud+%E2%98%81%EF%B8%8F+DevOps+%F0%9F%94%A7;From+APIs+to+Infrastructure;Always+Shipping%2C+Always+Scaling+%F0%9F%93%88"
@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 About Me  
-- Backend Engineer specializing in **scalable distributed systems**  
+- Software Engineer specializing in **scalable distributed systems**  
 - Building **cloud-native applications** and **data pipelines**  
 - Passionate about **system design**, **DevOps**, and **infrastructure automation**  
 - All of my work is **open-source**  
