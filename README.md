@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanay%20Paul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20ML%20%7C%20Computer%20Vision&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanay%20Paul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20System%20Design&descSize=18&descAlignY=55&textBg=false"/>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Tomorrow+with+Code;Python+%E2%9A%A1+AI+%26+ML+%F0%9F%A4%96+Computer+Vision;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%F0%9F%9A%80;Backend+%E2%9A%A1+Cloud+%E2%98%81%EF%B8%8F+DevOps+%F0%9F%94%A7;From+APIs+to+Infrastructure;Always+Shipping%2C+Always+Scaling+%F0%9F%93%88"
     alt="Typing introduction"
   />
   </p>
@@ -28,21 +28,24 @@
 ---
 
 ## 🚀 About Me  
-- Specializing in **Deep Learning** (PyTorch gang 🧠🔥)  
-- Love building **AI + Automation** projects  
+- Backend Engineer specializing in **scalable distributed systems**  
+- Building **cloud-native applications** and **data pipelines**  
+- Passionate about **system design**, **DevOps**, and **infrastructure automation**  
 - All of my work is **open-source**  
 - Reach me via: *Tanay Paul*  
-- Fun fact: I debug code faster than I choose food 🍔💻  
+- Fun fact: I debug production issues faster than I choose food 🍔💻  
 
 ---
 
-### 🎯 What I’m Building
+### 🎯 What I'm Building
 
-* 🔥 Scalable web apps with **FastAPI / Next.js + React**
-* 🤖 Advanced **Mechine Learning Models**
-* 🧠 AI-powered automation tools and CV systems
-* ☁️ Cloud-native deployments (Docker + CI/CD)
-* 🌟 Open-source projects and community tools
+* 🔥 Production-grade APIs with **Spring Boot, Node.js & FastAPI**
+* ☁️ Cloud-native architectures on **AWS, Azure & GCP**
+* 🔧 Scalable **data pipelines** and **ETL workflows**
+* 🐳 Containerized deployments with **Docker & Kubernetes**
+* 🚀 **CI/CD pipelines** and infrastructure automation
+* 🌐 Full-stack systems with **Next.js + React**
+* 🤖 Occasionally dabble in **ML model integration**
 
 ---
 
@@ -50,40 +53,49 @@
 
 <div align="center">
 
-### Languages & Frameworks
+### Backend & Languages
 
-<!-- Programming Languages & Frameworks -->
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,fastapi,flask,tailwind" />
+<!-- Programming Languages & Backend Frameworks -->
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,javascript,typescript,fastapi,express" />
 
 ---
 
-### AI/ML & Data Science
+### Frontend & Full-Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+---
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,heroku,cloudflare,terraform" />
+
+---
+
+### Databases & Data
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,kafka,supabase" />
+
+---
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,jenkins,linux,nginx,grafana" />
+
+---
+
+### Additional Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vim" />
+
+---
+
+### Machine Learning (Occasional)
 
 <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
-
-  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-  <!-- db assets -->
   <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/Scikit_learn_logo_small.svg.png" width="48" height="48" />
-  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/NumPy.svg" width="48" height="48" />
-  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/Pandas.svg" width="48" height="48" />
-  <img src="https://dmqugbachoxijpknrszh.supabase.co/storage/v1/object/public/portfolio-images/tech_stack/OpenCV.svg" width="48" height="48" />
-
 </div>
-
----
-
-### Databases & Cloud
-
-<!-- skillicons for supported -->
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,vercel,azure,heroku" />
-
----
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=8" />
 
 </div>
 
@@ -131,22 +143,31 @@
 ```mermaid
 mindmap
   root((Tanay Paul))
-    Backend Mastery
-      FastAPI & Flask
-      REST & GraphQL
-      Microservices
-    Frontend Craft
-      Responsive Design
-      Tailwind CSS
+    Backend Architecture
+      Spring Boot & Java
+      Node.js & Express
+      FastAPI & Python
+      RESTful & GraphQL APIs
+    Cloud & Infrastructure
+      AWS, Azure, GCP
+      Docker & Kubernetes
+      Terraform & IaC
+      Serverless Architecture
+    Data Engineering
+      ETL Pipelines
+      Kafka & Streaming
+      Database Design
+      Data Processing
+    DevOps & CI/CD
+      Jenkins & GitHub Actions
+      Monitoring & Logging
+      Infrastructure Automation
+      System Optimization
+    Full-Stack Development
       Next.js & React
-    AI & Automation
-      Training small scale LLM
-      Automated systems
-      CV & NLP Tools
-    DevOps Flow
-      Docker + CI/CD
-      Linux Admin
-      Cloud Deployments
+      Microservices
+      Scalable Systems
+      Performance Tuning
 ```
 </div>
 
@@ -156,13 +177,14 @@ mindmap
 
 <div align="center">
 
-| Skill               | Progress | Target         |
-| ------------------- | -------- | -------------- |
-| 🤖 Machine Learning | 80%      | Production ML  |
-| ☁️ Azure & Docker   | 70%      | Certified      |
-| ⚡ React + Next.js   | 75%      | Full-Stack Pro |
-| 🧠 Generative AI    | 65%      | Fine-tuning    |
-| 🐙 Kubernetes       | 50%      | Orchestration  |
+| Skill                    | Progress | Target                 |
+| ------------------------ | -------- | ---------------------- |
+| ☁️ Cloud Architecture    | 85%      | Solutions Architect    |
+| 🐳 Kubernetes & Helm     | 75%      | Production Orchestration |
+| ⚡ System Design         | 80%      | Distributed Systems    |
+| 🔧 Terraform & IaC       | 70%      | Multi-Cloud Automation |
+| 📊 Data Pipeline Design  | 80%      | Real-time Processing   |
+| 🔐 Security & Compliance | 65%      | DevSecOps              |
 
 </div>
 
@@ -199,7 +221,7 @@ mindmap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+my+repos+if+you+like+them!;%F0%9F%9A%80+Open+to+collabs+and+freelance;%F0%9F%A4%96+Let's+build+something+epic+together!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+my+repos+if+you+like+them!;%F0%9F%9A%80+Open+to+backend+%26+cloud+collabs;%E2%98%81%EF%B8%8F+Let's+build+scalable+systems+together!" />
   </p>
 
   <p>
